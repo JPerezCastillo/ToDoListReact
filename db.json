@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "Zitrone",
+      "description": "Bio",
+      "amount": "6",
+      "unit": "Stk",
+      "done": false,
+      "id": 5
+    },
+    {
+      "title": "Banane",
+      "description": "aus Costa Rica",
+      "amount": "4",
+      "unit": "Kg",
+      "done": true,
+      "id": 6
+    },
+    {
+      "title": "Melon",
+      "description": "zucer melon",
+      "amount": "1",
+      "unit": "Stk",
+      "done": false,
+      "id": 9
+    }
+  ]
+}
